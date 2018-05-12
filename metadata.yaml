@@ -1,0 +1,41 @@
+_repo: An-Almanac-of-Twelve-Sports_34113
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nicholson, William
+    alias: Beggarstaff, W.
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '36782'
+    url: http://www.gutenberg.org/2009/agents/36782
+    wikipedia: http://en.wikipedia.org/wiki/William_Nicholson_%28artist%29
+covers:
+- cover_type: archival
+  image_path: 34113-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2010-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sports in art'
+- !lcc 'NE'
+- !lcsh 'Sports -- Poetry'
+- !lcc 'PR'
+title: An Almanac of Twelve Sports
+url: http://www.gutenberg.org/ebooks/34113
